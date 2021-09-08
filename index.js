@@ -43,7 +43,8 @@ With all of these changes going on, we don't want to lose track of the actual, o
 Use the copy function below to do the following:
   1. receive an array as a parameter - you will pass in originalFlavors as an argument when the function is invoked.
   2. Return a copy of the received array  
-*/
+*/ 
+/*1st push is a test */
 
 function copy(/*your code here*/){
   /*your code here*/
